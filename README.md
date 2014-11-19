@@ -17,6 +17,7 @@ A node has two main purposes:
 * Latest PHP (5.6.3 as of this writing)
   * `php5-fpm` for nginx
   * `php5-pgsql` for postgresql
+  * `php5-cli` for most of the actual functionality
   * `php5-mcrypt`
   * `php5-json` or `php5-common` depending on your distro
 * Latest OpenSSL (if you don't update this, my heart won't bleed for you)
