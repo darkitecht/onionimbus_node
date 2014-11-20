@@ -22,4 +22,4 @@ A node has two main purposes:
   * `php5-json` or `php5-common` depending on your distro
 * Latest OpenSSL (if you don't update this, my heart won't bleed for you)
 
-See also: [https://github.com/darkitecht/onionimbus_hub](The Hub)
+See also: [The Hub](https://github.com/darkitecht/onionimbus_hub)
